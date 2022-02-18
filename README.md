@@ -1,1 +1,1 @@
-# Purpose to find Palindrome within a phrase
+# Purpose to find Palindromes within a phrase
